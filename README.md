@@ -85,10 +85,10 @@
 
 ## 🤝 Let’s Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="www.linkedin.com/in/isabellabenitez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:your.email@domain.com" target="_blank">
+  <a href="mailto:isaben0406@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-DB4437?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
