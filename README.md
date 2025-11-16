@@ -85,7 +85,7 @@
 
 ## 🤝 Let’s Connect
 <p align="left">
-  <a href="www.linkedin.com/in/isabellabenitez" target="_blank">
+<a href="mailto:isaben0406@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:isaben0406@gmail.com" target="_blank">
